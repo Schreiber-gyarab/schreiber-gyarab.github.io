@@ -1,1 +1,1 @@
-# schreiber-gyarab.github.io
+# 2024_WA_INF2_schreiber_static
